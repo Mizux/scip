@@ -34,8 +34,8 @@
 #include "compute_symmetry.h"
 
 /* include bliss graph */
-#include <bliss/defs.hh>
-#include <bliss/graph.hh>
+#include <defs.hh>
+#include <graph.hh>
 
 #include <string.h>
 #include <vector>

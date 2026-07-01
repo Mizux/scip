@@ -81,7 +81,7 @@ hooks/
 localhooks/
 
 # created when packaging, don't version control this
-src/scip/githash.c
+#src/scip/githash.c
 
 # settings, except for check/coverage/settings
 settings/

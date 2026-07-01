@@ -22,6 +22,8 @@ obj/
 TAGS
 
 # common cmake build folder names
+bazel-*
+MODULE.bazel.lock
 build/
 build*
 debug/
